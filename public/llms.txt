@@ -1,0 +1,107 @@
+# Summer drip — Generative Engine Optimization Map
+
+> A men's swimwear brand focused on selling swimming and beach apparel for male customers. The brand operates in the fashion and beachwear niche, catering specifically to men looking for swimwear products.
+
+---
+
+## Pages
+
+### בית
+https://summer-drip-ec4175c9.zappy5.app
+גלו את קולקציית בגדי הים והחוף לגברים של Summer drip. עיצובים נועזים, נוחות ללא פשרות וסטייל שיהפוך אתכם למרכז העניינים. כנסו עכשיו והתחילו לטפטף סטייל!
+
+### מדריך סגנון
+https://summer-drip-ec4175c9.zappy5.app/style-guide
+מדריך הסגנון שלנו יחשוף בפניכם איך לשלב את בגדי הים של Summer drip למראה מנצח. טרנדים חמים, התאמות מושלמות ועצות סטיילינג שיעשו לכם את הקיץ. היכנסו למדריך!
+
+### אודות
+https://summer-drip-ec4175c9.zappy5.app/about
+הכירו את Summer drip לעומק – מותג בגדי ים לגברים שנולד מאהבה לים, חופש וסטייל נקי. אנחנו מאמינים שכל גבר יכול להרגיש בטוח ונועז. בואו לקרוא את הסיפור המלא.
+
+### צור קשר
+https://summer-drip-ec4175c9.zappy5.app/contact
+יש שאלה על מידה, משלוח או סתם בא לכם להגיד היי? צוות Summer drip כאן בשבילכם. מלאו את הטופס ונחזור אליכם במהירות עם חיוך ושירות צמוד. צרו קשר עכשיו!
+
+### Products
+https://summer-drip-ec4175c9.zappy5.app/products
+המוצרים שלנו - Summer drip
+
+### Cart
+https://summer-drip-ec4175c9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://summer-drip-ec4175c9.zappy5.app/checkout
+תשלום
+
+### Login
+https://summer-drip-ec4175c9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://summer-drip-ec4175c9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://summer-drip-ec4175c9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://summer-drip-ec4175c9.zappy5.app/product/:slug
+פרטי המוצר - Summer drip
+
+### Category
+https://summer-drip-ec4175c9.zappy5.app/category/:slug
+מוצרים - Summer drip
+
+### תודה - Summer drip
+https://summer-drip-ec4175c9.zappy5.app/thank-you
+Summer drip - תודה - Summer drip
+
+## Legal & Policy
+
+### Privacy Policy
+https://summer-drip-ec4175c9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://summer-drip-ec4175c9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://summer-drip-ec4175c9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Summer drip
+A men's swimwear brand focused on selling swimming and beach apparel for male customers. The brand operates in the fashion and beachwear niche, catering specifically to men looking for swimwear products.
+
+## Services/Products
+- בגדי ים לגברים
+
+## Target Audience
+- גברים
+- גברים חובבי אופנה
+- נוער
+
+## Industry
+Fashion & Swimwear
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://summer-drip-ec4175c9.zappy5.app/sitemap.xml
+- Robots: https://summer-drip-ec4175c9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://summer-drip-ec4175c9.zappy5.app/llms-full.txt
+- Products (JSON): https://summer-drip-ec4175c9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://summer-drip-ec4175c9.zappy5.app/product-feed.xml
