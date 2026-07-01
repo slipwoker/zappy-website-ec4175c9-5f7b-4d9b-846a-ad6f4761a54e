@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://summer-drip-ec4175c9.zappy5.app
+https://example.com
 גלו את קולקציית בגדי הים והחוף לגברים של Summer drip. עיצובים נועזים, נוחות ללא פשרות וסטייל שיהפוך אתכם למרכז העניינים. כנסו עכשיו והתחילו לטפטף סטייל!
 
 ### מדריך סגנון
-https://summer-drip-ec4175c9.zappy5.app/style-guide
+https://example.com/style-guide
 מדריך הסגנון שלנו יחשוף בפניכם איך לשלב את בגדי הים של Summer drip למראה מנצח. טרנדים חמים, התאמות מושלמות ועצות סטיילינג שיעשו לכם את הקיץ. היכנסו למדריך!
 
 ### אודות
-https://summer-drip-ec4175c9.zappy5.app/about
+https://example.com/about
 הכירו את Summer drip לעומק – מותג בגדי ים לגברים שנולד מאהבה לים, חופש וסטייל נקי. אנחנו מאמינים שכל גבר יכול להרגיש בטוח ונועז. בואו לקרוא את הסיפור המלא.
 
 ### צור קשר
-https://summer-drip-ec4175c9.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סתם בא לכם להגיד היי? צוות Summer drip כאן בשבילכם. מלאו את הטופס ונחזור אליכם במהירות עם חיוך ושירות צמוד. צרו קשר עכשיו!
 
 ### Products
-https://summer-drip-ec4175c9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Summer drip
 
 ### Cart
-https://summer-drip-ec4175c9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://summer-drip-ec4175c9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://summer-drip-ec4175c9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://summer-drip-ec4175c9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://summer-drip-ec4175c9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://summer-drip-ec4175c9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Summer drip
 
 ### Category
-https://summer-drip-ec4175c9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Summer drip
 
 ### תודה - Summer drip
-https://summer-drip-ec4175c9.zappy5.app/thank-you
+https://example.com/thank-you
 Summer drip - תודה - Summer drip
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://summer-drip-ec4175c9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://summer-drip-ec4175c9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://summer-drip-ec4175c9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Fashion & Swimwear
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://summer-drip-ec4175c9.zappy5.app/sitemap.xml
-- Robots: https://summer-drip-ec4175c9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://summer-drip-ec4175c9.zappy5.app/llms-full.txt
-- Products (JSON): https://summer-drip-ec4175c9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://summer-drip-ec4175c9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
